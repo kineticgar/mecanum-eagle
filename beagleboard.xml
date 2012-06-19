@@ -1,0 +1,30 @@
+<beagleboard>
+	<!-- Source: BeagleBoard-xM System Reference Manual, Rev C.1.0, p108 -->
+	<gpio id="3">139</gpio>
+	<gpio id="4">144</gpio>
+	<gpio id="5">138</gpio>
+	<gpio id="6">146</gpio>
+	<gpio id="7">137</gpio>
+	<gpio id="8">143</gpio>
+	<gpio id="9">136</gpio>
+	<gpio id="10">145</gpio>
+	<gpio id="11">135</gpio>
+	<gpio id="12">158</gpio>
+	<gpio id="13">134</gpio>
+	<gpio id="14">162</gpio>
+	<gpio id="15">133</gpio>
+	<gpio id="16">161</gpio>
+	<gpio id="17">132</gpio>
+	<gpio id="18">159</gpio>
+	<gpio id="19">131</gpio>
+	<gpio id="20">156</gpio>
+	<gpio id="21">130</gpio>
+	<gpio id="22">157</gpio>
+	<gpio id="23">183</gpio>
+	<gpio id="24">168</gpio>
+	<gpio id="24">144</gpio>
+	<gpio id="USER">7</gpio>
+	<!-- Page 71 -->
+	<gpio id="USR0">149</gpio>
+	<gpio id="USR1">150</gpio>
+</beagleboard>
