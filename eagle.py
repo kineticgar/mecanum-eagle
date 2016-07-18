@@ -3,7 +3,7 @@
 
 import os, sys
 from xml.etree import ElementTree
-from kineticthings.eagle.part import Part
+from mecanum.eagle.part import Part
 
 def main():
     eagle_node = ElementTree.parse('Layout.sch').getroot() # <eagle>
